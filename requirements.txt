@@ -1,0 +1,21 @@
+# ML Network Intrusion Detector — Requirements
+# Cybersecurity Project: Network Security / Intrusion Detection
+# Install: pip install -r requirements.txt
+
+# Web Framework
+flask>=2.3.0
+werkzeug>=2.3.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Serialization
+joblib>=1.3.0
